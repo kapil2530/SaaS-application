@@ -1,3 +1,14 @@
+saas-application
+│
+├── client/        (React + TypeScript frontend)
+├── server/        (Node.js + Express backend)
+├── shared/        (shared types)
+├── docker-compose.yml
+├── README.md
+├── .gitignore
+└── .github/workflows
+
+
 # SaaS Project Management Application
 
 ## Tech Stack
